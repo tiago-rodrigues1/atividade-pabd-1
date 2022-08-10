@@ -1,6 +1,8 @@
 # atividade-pabd-1
 Atividade do dia 03/08/2022 da matéria de Programação com Acesso a Banco de Dados do IFRN, turma: INFO3M.
 
+Implementação do CREATE do CRUD.
+
 <br>
 
 > Prof. Fernando Virgínio
